@@ -1,0 +1,11 @@
+feature that will be changed:
+  1. Employee in each branch will be included in a linked list[done]
+  2. change the sorting system of employee [done]
+  3. change variable in each classes in public [should not be done]
+  4. change the default branch name [done]
+  5. maybe remove unused #include's [done]
+  6. seperate each class into seperate .h files [done]
+
+New features:
+  1. Adding and removing branches using stack [done]
+  2. Changing branch name [done]
